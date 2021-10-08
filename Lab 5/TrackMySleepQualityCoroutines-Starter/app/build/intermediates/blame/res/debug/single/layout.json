@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rubixs/Documentos/ITC/ITC semestre 5/Laboratorios/Lab 5/TrackMySleepQualityCoroutines-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sleep_quality.xml",
+        "source": "/home/rubixs/Documentos/ITC/ITC semestre 5/Laboratorios/Lab 5/TrackMySleepQualityCoroutines-Starter/app/src/main/res/layout/fragment_sleep_quality.xml"
+    },
+    {
+        "merged": "/home/rubixs/Documentos/ITC/ITC semestre 5/Laboratorios/Lab 5/TrackMySleepQualityCoroutines-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sleep_tracker.xml",
+        "source": "/home/rubixs/Documentos/ITC/ITC semestre 5/Laboratorios/Lab 5/TrackMySleepQualityCoroutines-Starter/app/src/main/res/layout/fragment_sleep_tracker.xml"
+    }
+]
